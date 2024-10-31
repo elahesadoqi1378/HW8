@@ -1,0 +1,32 @@
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 104\Session032\Golestan\Golestan\obj\Debug\net6.0\Golestan.csproj.AssemblyReference.cache
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 104\Session032\Golestan\Golestan\obj\Debug\net6.0\Golestan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 104\Session032\Golestan\Golestan\obj\Debug\net6.0\Golestan.AssemblyInfoInputs.cache
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 104\Session032\Golestan\Golestan\obj\Debug\net6.0\Golestan.AssemblyInfo.cs
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 104\Session032\Golestan\Golestan\obj\Debug\net6.0\Golestan.csproj.CoreCompileInputs.cache
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 104\Session032\Golestan\Golestan\bin\Debug\net6.0\Golestan.exe
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 104\Session032\Golestan\Golestan\bin\Debug\net6.0\Golestan.deps.json
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 104\Session032\Golestan\Golestan\bin\Debug\net6.0\Golestan.runtimeconfig.json
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 104\Session032\Golestan\Golestan\bin\Debug\net6.0\Golestan.dll
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 104\Session032\Golestan\Golestan\bin\Debug\net6.0\ref\Golestan.dll
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 104\Session032\Golestan\Golestan\bin\Debug\net6.0\Golestan.pdb
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 104\Session032\Golestan\Golestan\obj\Debug\net6.0\Golestan.dll
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 104\Session032\Golestan\Golestan\obj\Debug\net6.0\ref\Golestan.dll
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 104\Session032\Golestan\Golestan\obj\Debug\net6.0\Golestan.pdb
+C:\Users\rasoo\Documents\Work Space\Maktab\Maktab 104\Session032\Golestan\Golestan\obj\Debug\net6.0\Golestan.genruntimeconfig.cache
+D:\programming\Golestan\Golestan\Golestan\bin\Debug\net6.0\Golestan.exe
+D:\programming\Golestan\Golestan\Golestan\bin\Debug\net6.0\Golestan.deps.json
+D:\programming\Golestan\Golestan\Golestan\bin\Debug\net6.0\Golestan.runtimeconfig.json
+D:\programming\Golestan\Golestan\Golestan\bin\Debug\net6.0\Golestan.dll
+D:\programming\Golestan\Golestan\Golestan\bin\Debug\net6.0\Golestan.pdb
+D:\programming\Golestan\Golestan\Golestan\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\programming\Golestan\Golestan\Golestan\obj\Debug\net6.0\Golestan.csproj.AssemblyReference.cache
+D:\programming\Golestan\Golestan\Golestan\obj\Debug\net6.0\Golestan.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\Golestan\Golestan\Golestan\obj\Debug\net6.0\Golestan.AssemblyInfoInputs.cache
+D:\programming\Golestan\Golestan\Golestan\obj\Debug\net6.0\Golestan.AssemblyInfo.cs
+D:\programming\Golestan\Golestan\Golestan\obj\Debug\net6.0\Golestan.csproj.CoreCompileInputs.cache
+D:\programming\Golestan\Golestan\Golestan\obj\Debug\net6.0\Golestan.csproj.Up2Date
+D:\programming\Golestan\Golestan\Golestan\obj\Debug\net6.0\Golestan.dll
+D:\programming\Golestan\Golestan\Golestan\obj\Debug\net6.0\refint\Golestan.dll
+D:\programming\Golestan\Golestan\Golestan\obj\Debug\net6.0\Golestan.pdb
+D:\programming\Golestan\Golestan\Golestan\obj\Debug\net6.0\Golestan.genruntimeconfig.cache
+D:\programming\Golestan\Golestan\Golestan\obj\Debug\net6.0\ref\Golestan.dll

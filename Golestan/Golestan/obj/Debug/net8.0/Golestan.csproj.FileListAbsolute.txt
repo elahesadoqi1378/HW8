@@ -1,0 +1,17 @@
+C:\Users\ARYA\Desktop\Golestan\Golestan\Golestan\bin\Debug\net8.0\Golestan.exe
+C:\Users\ARYA\Desktop\Golestan\Golestan\Golestan\bin\Debug\net8.0\Golestan.deps.json
+C:\Users\ARYA\Desktop\Golestan\Golestan\Golestan\bin\Debug\net8.0\Golestan.runtimeconfig.json
+C:\Users\ARYA\Desktop\Golestan\Golestan\Golestan\bin\Debug\net8.0\Golestan.dll
+C:\Users\ARYA\Desktop\Golestan\Golestan\Golestan\bin\Debug\net8.0\Golestan.pdb
+C:\Users\ARYA\Desktop\Golestan\Golestan\Golestan\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ARYA\Desktop\Golestan\Golestan\Golestan\obj\Debug\net8.0\Golestan.csproj.AssemblyReference.cache
+C:\Users\ARYA\Desktop\Golestan\Golestan\Golestan\obj\Debug\net8.0\Golestan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARYA\Desktop\Golestan\Golestan\Golestan\obj\Debug\net8.0\Golestan.AssemblyInfoInputs.cache
+C:\Users\ARYA\Desktop\Golestan\Golestan\Golestan\obj\Debug\net8.0\Golestan.AssemblyInfo.cs
+C:\Users\ARYA\Desktop\Golestan\Golestan\Golestan\obj\Debug\net8.0\Golestan.csproj.CoreCompileInputs.cache
+C:\Users\ARYA\Desktop\Golestan\Golestan\Golestan\obj\Debug\net8.0\Golestan.csproj.Up2Date
+C:\Users\ARYA\Desktop\Golestan\Golestan\Golestan\obj\Debug\net8.0\Golestan.dll
+C:\Users\ARYA\Desktop\Golestan\Golestan\Golestan\obj\Debug\net8.0\refint\Golestan.dll
+C:\Users\ARYA\Desktop\Golestan\Golestan\Golestan\obj\Debug\net8.0\Golestan.pdb
+C:\Users\ARYA\Desktop\Golestan\Golestan\Golestan\obj\Debug\net8.0\Golestan.genruntimeconfig.cache
+C:\Users\ARYA\Desktop\Golestan\Golestan\Golestan\obj\Debug\net8.0\ref\Golestan.dll
